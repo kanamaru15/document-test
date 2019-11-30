@@ -1,6 +1,6 @@
 swagger: "2.0"
 info:
-  description: "APIリファレンスを作成するにあたり、事前に検証しています。変更の確認"
+  description: "APIリファレンスを作成するにあたり、事前に検証しています。変更の確認2-2"
   version: "1.0.0"
   title: "Sample API リファレンス"
 host: "XXXXXXXXXXXX"
